@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Berk-A
-- 👀 I’m interested in blockchain development and machine learning.
-- 🌱 I’m currently expanding my knowledge on solidity.
-- 💞️ I’m looking to collaborate on an NFT project.
+- 👋 Hi, I’m Berk
+- 👀 I’m interested in multi agent network systems, machine learning and blockchain development.
 - 📫 How to reach me: https://www.linkedin.com/in/berk-alemdar
 
 <!---
